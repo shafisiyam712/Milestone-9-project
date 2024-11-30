@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  font-family: "Sora", sans-serif;
+  background: linear-gradient(to bottom, #D9EAF7, #FFFFFF);
+  /* background: linear-gradient(to right, #6EC1E4, #A2D8E3); */
+}
+html {
+  overflow-y: scroll;
+}
